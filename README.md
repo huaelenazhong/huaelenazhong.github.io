@@ -1,2 +1,2 @@
 # huaelenazhong.github.io
- Hua Zhong's [ersonal site
+ Hua Zhong's personal site
